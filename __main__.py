@@ -21,6 +21,9 @@ class Reporter:
         dirl = QLabel("Directory: ")
         self.dirEntry = QLineEdit("D:\\")
 
+        dumpnamel = QLabel("Dump Name: ")
+        self.dirDumpNameEntry = QLineEdit("dumpcsv")
+
         dumpdirl = QLabel("Dump Directory: ")
         self.dirDumpEntry = QLineEdit("D:\\dump")
         
@@ -44,6 +47,7 @@ class Reporter:
         fbox.addRow(repl)
         fbox.addRow(dirl, self.dirEntry)
         fbox.addRow(dumpdirl, self.dirDumpEntry)
+        fbox.addRow(dumpnamel, self.dirDumpNameEntry)
         fbox.addRow(excl, self.excEntry)
         fbox.addRow(recl, self.recButton)
         fbox.addRow(runButton)
@@ -56,41 +60,39 @@ class Reporter:
     def run(self):
         self.statl2.setText("<h2> Running <\h>")
 
-
-        #Entry Point over here.
-        files = getAllFilesFromDir(self.dirEntry.text(), self.excEntry.text(), self.recButton.isChecked())
-        
-        #reportExitCode = printReport(self.dirDumpEntry.text(), files)
-
-        #if reportExitCode == 0:
-        #    self.statl2.setText("<h2> Done <\h>")
-        #else:
-        #    self.statl2.setText("<h2> Error Running Report. </h2>")
+        report = self.getAllFilesFromDir(self.dirEntry.text(), self.excEntry.text(), self.recButton.isChecked())
+        self.printReport(self.dirDumpEntry.text(), self.dirDumpNameEntry.text(), report)
 
         self.statl2.setText("<h2> Finished, Check Dump Directory for report <\h>")
 
         return
 
     def getAllFilesFromDir(self, dir, exclusions, recursive):
-
-        report = [{
-            "fileName":"",
-            "filePath":"",
-            "fileSize":0,
-            "lastModify":''
-        }]
-
+        report = ""
+        
         with os.scandir(dir) as directory:
             for file in directory:
                 if file.is_file():
-                    # file is NOT directory and can be used as is
-                else if not file.is_file() and recursive:
-                    # file is a directory
-                    getAllFilesFromDir(file.path, exclusions, recursive)
-        
-        return
-    
-    def printReport(self, dumpDir, report):
+                    exclusionlist = exclusions.lower().split(',')
+                    filetype = os.path.splitext(file.name)[1].lower()
+                    if not filetype in exclusionlist:
+                        #file is NOT a directory and can be used as is
+                        report += file.name + "," + file.path + "," + filetype + "," + str(os.path.getsize(file.path) * 0.001) + "kb ," + str(os.path.getmtime(file.path)/86400) + "\n"
+                elif not file.is_file() and recursive:
+                    #file IS a directory, loop recursively.
+                    #WARNING Could be expensive to do this as a recursion, might be best to find something else that accepts a "recurse flag" when looking through files.
+                    report += self.getAllFilesFromDir(file.path, exclusions, recursive)
+
+        return report
+
+
+    def printReport(self, dumpDir, fileName, report):
+        printable = "Name, Path, Extension, Size, Last Modified\n"
+        printable += report
+
+        f = open(os.path.join(dumpDir, fileName+".csv"), "w")
+        f.write(printable)
+        f.close()
         return
     
 
