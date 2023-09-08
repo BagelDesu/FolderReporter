@@ -1,0 +1,875 @@
+Name, Path, Extension, Size, Last Modified
+api-ms-win-core-console-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-console-l1-1-0.dll,.dll,20.52kb ,18967 days, 8:00:00
+api-ms-win-core-console-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-console-l1-2-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-datetime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-datetime-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-debug-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-debug-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-errorhandling-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-errorhandling-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-file-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-file-l1-1-0.dll,.dll,23.168kb ,18967 days, 8:00:00
+api-ms-win-core-file-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-file-l1-2-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-file-l2-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-file-l2-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-handle-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-handle-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-heap-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-interlocked-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-interlocked-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-libraryloader-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-libraryloader-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-localization-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-localization-l1-2-0.dll,.dll,22.144000000000002kb ,18967 days, 8:00:00
+api-ms-win-core-memory-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-memory-l1-1-0.dll,.dll,20.312kb ,18967 days, 8:00:00
+api-ms-win-core-namedpipe-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-namedpipe-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-processenvironment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-processenvironment-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-processthreads-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-processthreads-l1-1-1.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-profile-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-profile-l1-1-0.dll,.dll,19.072kb ,18967 days, 8:00:00
+api-ms-win-core-rtlsupport-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-rtlsupport-l1-1-0.dll,.dll,19.072kb ,18967 days, 8:00:00
+api-ms-win-core-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-string-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-synch-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-synch-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-core-synch-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-synch-l1-2-0.dll,.dll,20.336000000000002kb ,18967 days, 8:00:00
+api-ms-win-core-sysinfo-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-sysinfo-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-timezone-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-timezone-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-util-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-core-util-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+API-MS-Win-core-xstate-l2-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\API-MS-Win-core-xstate-l2-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-crt-conio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-conio-l1-1-0.dll,.dll,20.824kb ,18967 days, 8:00:00
+api-ms-win-crt-convert-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-convert-l1-1-0.dll,.dll,23.68kb ,18967 days, 8:00:00
+api-ms-win-crt-environment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-environment-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-crt-filesystem-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-filesystem-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-crt-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-heap-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-crt-locale-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-locale-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-crt-math-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-math-l1-1-0.dll,.dll,30.336000000000002kb ,18967 days, 8:00:00
+api-ms-win-crt-multibyte-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-multibyte-l1-1-0.dll,.dll,27.776kb ,18967 days, 8:00:00
+api-ms-win-crt-private-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-private-l1-1-0.dll,.dll,74.368kb ,18967 days, 8:00:00
+api-ms-win-crt-process-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-process-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-crt-runtime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-runtime-l1-1-0.dll,.dll,24.192kb ,18967 days, 8:00:00
+api-ms-win-crt-stdio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-stdio-l1-1-0.dll,.dll,25.944kb ,18967 days, 8:00:00
+api-ms-win-crt-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-string-l1-1-0.dll,.dll,25.728kb ,18967 days, 8:00:00
+api-ms-win-crt-time-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-time-l1-1-0.dll,.dll,22.144000000000002kb ,18967 days, 8:00:00
+api-ms-win-crt-utility-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\api-ms-win-crt-utility-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+AudioUtl.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\AudioUtl.dll,.dll,123.392kb ,18967 days, 8:00:00
+boost_date_time.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\boost_date_time.dll,.dll,45.056kb ,18967 days, 8:00:00
+boost_regex.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\boost_regex.dll,.dll,730.624kb ,18967 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\boost_system.dll,.dll,8.704kb ,18967 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\boost_thread.dll,.dll,80.896kb ,18967 days, 8:00:00
+CLIPStudio.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CLIPStudio.exe,.exe,23549.824kb ,18967 days, 8:00:00
+concrt140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\concrt140.dll,.dll,252.20000000000002kb ,18967 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\giflib.dll,.dll,28.672kb ,18967 days, 8:00:00
+iswCmnTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\iswCmnTG.dll,.dll,1080.28kb ,18967 days, 8:00:00
+iswCoreTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\iswCoreTG.dll,.dll,4191.192kb ,18967 days, 8:00:00
+jpeg62.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\jpeg62.dll,.dll,520.7040000000001kb ,18967 days, 8:00:00
+libfbxsdk.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\libfbxsdk.dll,.dll,8711.552kb ,18967 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\libpng16.dll,.dll,164.352kb ,18967 days, 8:00:00
+moveUserDataTool.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\moveUserDataTool.exe,.exe,6362.848kb ,18967 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcp100.dll,.dll,421.2kb ,18967 days, 8:00:00
+msvcp140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcp140.dll,.dll,456.48kb ,18967 days, 8:00:00
+msvcp140_1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcp140_1.dll,.dll,28.96kb ,18967 days, 8:00:00
+msvcp140_2.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcp140_2.dll,.dll,174.368kb ,18967 days, 8:00:00
+msvcp140_codecvt_ids.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcp140_codecvt_ids.dll,.dll,26.400000000000002kb ,18967 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\msvcr100.dll,.dll,773.968kb ,18967 days, 8:00:00
+rtwUtlTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\rtwUtlTG.dll,.dll,69.584kb ,18967 days, 8:00:00
+g-base.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\css\inlay\g-base.css,.css,1.938kb ,18967 days, 8:00:00
+g-fixed.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\css\inlay\g-fixed.css,.css,3.8120000000000003kb ,18967 days, 8:00:00
+g-ratio.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\css\inlay\g-ratio.css,.css,6.163kb ,18967 days, 8:00:00
+autocomplete.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\autocomplete.css,.css,0.971kb ,18967 days, 8:00:00
+bubble.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\bubble.css,.css,2.048kb ,18967 days, 8:00:00
+button-bg.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\button-bg.png,.png,0.422kb ,18967 days, 8:00:00
+button.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\button.css,.css,0.6880000000000001kb ,18967 days, 8:00:00
+charpicker.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\charpicker.css,.css,3.6830000000000003kb ,18967 days, 8:00:00
+checkbox.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\checkbox.css,.css,0.892kb ,18967 days, 8:00:00
+colormenubutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\colormenubutton.css,.css,0.6920000000000001kb ,18967 days, 8:00:00
+colorpalette.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\colorpalette.css,.css,1.168kb ,18967 days, 8:00:00
+colorpicker-simplegrid.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\colorpicker-simplegrid.css,.css,0.998kb ,18967 days, 8:00:00
+combobox.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\combobox.css,.css,1.198kb ,18967 days, 8:00:00
+common.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\common.css,.css,1.169kb ,18967 days, 8:00:00
+css3button.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\css3button.css,.css,2.05kb ,18967 days, 8:00:00
+css3menubutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\css3menubutton.css,.css,0.63kb ,18967 days, 8:00:00
+custombutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\custombutton.css,.css,4.442kb ,18967 days, 8:00:00
+datepicker.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\datepicker.css,.css,2.501kb ,18967 days, 8:00:00
+dialog.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\dialog.css,.css,1.3800000000000001kb ,18967 days, 8:00:00
+dimensionpicker.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\dimensionpicker.css,.css,1.101kb ,18967 days, 8:00:00
+dragdropdetector.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\dragdropdetector.css,.css,0.869kb ,18967 days, 8:00:00
+bubble.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editor\bubble.css,.css,1.4060000000000001kb ,18967 days, 8:00:00
+dialog.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editor\dialog.css,.css,1.103kb ,18967 days, 8:00:00
+equationeditor.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editor\equationeditor.css,.css,1.83kb ,18967 days, 8:00:00
+linkdialog.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editor\linkdialog.css,.css,0.737kb ,18967 days, 8:00:00
+editortoolbar.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editortoolbar.css,.css,3.918kb ,18967 days, 8:00:00
+editortoolbar.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\editortoolbar.png,.png,2.759kb ,18967 days, 8:00:00
+filteredmenu.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\filteredmenu.css,.css,0.551kb ,18967 days, 8:00:00
+filterobservingmenuitem.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\filterobservingmenuitem.css,.css,0.496kb ,18967 days, 8:00:00
+flatbutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\flatbutton.css,.css,1.286kb ,18967 days, 8:00:00
+flatmenubutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\flatmenubutton.css,.css,1.344kb ,18967 days, 8:00:00
+hovercard.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hovercard.css,.css,0.963kb ,18967 days, 8:00:00
+hsv-sprite-sm.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsv-sprite-sm.gif,.gif,11.851kb ,18967 days, 8:00:00
+hsv-sprite-sm.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsv-sprite-sm.png,.png,19.537kb ,18967 days, 8:00:00
+hsv-sprite.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsv-sprite.gif,.gif,33.309kb ,18967 days, 8:00:00
+hsv-sprite.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsv-sprite.png,.png,58.142kb ,18967 days, 8:00:00
+hsvapalette.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsvapalette.css,.css,4.981kb ,18967 days, 8:00:00
+hsvpalette.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\hsvpalette.css,.css,3.559kb ,18967 days, 8:00:00
+I.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\I.png,.png,0.232kb ,18967 days, 8:00:00
+imagelessbutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\imagelessbutton.css,.css,4.837kb ,18967 days, 8:00:00
+imagelessmenubutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\imagelessmenubutton.css,.css,0.641kb ,18967 days, 8:00:00
+inputdatepicker.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\inputdatepicker.css,.css,0.303kb ,18967 days, 8:00:00
+linkbutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\linkbutton.css,.css,0.535kb ,18967 days, 8:00:00
+menu.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\menu.css,.css,0.619kb ,18967 days, 8:00:00
+menubar.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\menubar.css,.css,1.055kb ,18967 days, 8:00:00
+menubutton.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\menubutton.css,.css,4.4510000000000005kb ,18967 days, 8:00:00
+menuitem.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\menuitem.css,.css,3.866kb ,18967 days, 8:00:00
+menuseparator.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\menuseparator.css,.css,0.404kb ,18967 days, 8:00:00
+multitestrunner.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\multitestrunner.css,.css,2.161kb ,18967 days, 8:00:00
+palette.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\palette.css,.css,0.6900000000000001kb ,18967 days, 8:00:00
+popupdatepicker.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\popupdatepicker.css,.css,0.341kb ,18967 days, 8:00:00
+roundedpanel.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\roundedpanel.css,.css,0.499kb ,18967 days, 8:00:00
+roundedtab.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\roundedtab.css,.css,3.899kb ,18967 days, 8:00:00
+submenu.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\submenu.css,.css,0.712kb ,18967 days, 8:00:00
+tab.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tab.css,.css,1.9000000000000001kb ,18967 days, 8:00:00
+tabbar.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tabbar.css,.css,0.886kb ,18967 days, 8:00:00
+tablesorter.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tablesorter.css,.css,0.325kb ,18967 days, 8:00:00
+toolbar-bg.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\toolbar-bg.png,.png,0.166kb ,18967 days, 8:00:00
+toolbar.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\toolbar.css,.css,10.69kb ,18967 days, 8:00:00
+tooltip.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tooltip.css,.css,0.322kb ,18967 days, 8:00:00
+tree.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tree.css,.css,2.64kb ,18967 days, 8:00:00
+tree.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tree.png,.png,1.262kb ,18967 days, 8:00:00
+tristatemenuitem.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\closure-library\closure\goog\css\tristatemenuitem.css,.css,0.918kb ,18967 days, 8:00:00
+cloud_setting.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\cloud_setting.html,.html,4.587kb ,18967 days, 8:00:00
+common_setting.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\common_setting.html,.html,3.218kb ,18967 days, 8:00:00
+basic.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\basic.css,.css,3.989kb ,18967 days, 8:00:00
+detail.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\detail.css,.css,16.185kb ,18967 days, 8:00:00
+edge.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\edge.css,.css,2.277kb ,18967 days, 8:00:00
+edit.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\edit.css,.css,15.719000000000001kb ,18967 days, 8:00:00
+other.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\other.css,.css,0.533kb ,18967 days, 8:00:00
+parapara.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\parapara.css,.css,1.328kb ,18967 days, 8:00:00
+sp_cloud.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\sp_cloud.css,.css,1.506kb ,18967 days, 8:00:00
+sp_common.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\sp_common.css,.css,9.153kb ,18967 days, 8:00:00
+sp_detail.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\sp_detail.css,.css,12.370000000000001kb ,18967 days, 8:00:00
+sp_dialog.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\sp_dialog.css,.css,1.409kb ,18967 days, 8:00:00
+sp_menu.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\sp_menu.css,.css,1.1480000000000001kb ,18967 days, 8:00:00
+start.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\start.css,.css,13.337kb ,18967 days, 8:00:00
+touch.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\css\touch.css,.css,2.0220000000000002kb ,18967 days, 8:00:00
+bt_thumb_play.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\bt_thumb_play.png,.png,0.9460000000000001kb ,18967 days, 8:00:00
+bt_thumb_play_s.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\bt_thumb_play_s.png,.png,0.9550000000000001kb ,18967 days, 8:00:00
+detail_noimage.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\detail_noimage.png,.png,2.182kb ,18967 days, 8:00:00
+editortoolbar-custom-img.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\editortoolbar-custom-img.png,.png,0.445kb ,18967 days, 8:00:00
+editortoolbar.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\editortoolbar.png,.png,2.759kb ,18967 days, 8:00:00
+icon_set.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\icon_set.png,.png,52.263kb ,18967 days, 8:00:00
+ico_arrow_l.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\ico_arrow_l.png,.png,0.33kb ,18967 days, 8:00:00
+ico_arrow_r.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\ico_arrow_r.png,.png,0.337kb ,18967 days, 8:00:00
+ico_move.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\ico_move.png,.png,0.151kb ,18967 days, 8:00:00
+ico_trash.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\ico_trash.png,.png,0.193kb ,18967 days, 8:00:00
+now_loading.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\now_loading.gif,.gif,2.977kb ,18967 days, 8:00:00
+now_loading_bk.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\now_loading_bk.gif,.gif,3.043kb ,18967 days, 8:00:00
+offline.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\offline.png,.png,43.008kb ,18967 days, 8:00:00
+spacer.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\common\spacer.gif,.gif,0.043000000000000003kb ,18967 days, 8:00:00
+de-de_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\de-de_bt_box_visual_kindle01.png,.png,13.404kb ,18967 days, 8:00:00
+de-de_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\de-de_bt_box_visual_kindle02.png,.png,8.655kb ,18967 days, 8:00:00
+de-de_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\de-de_bt_box_visual_kindle03.png,.png,12.704kb ,18967 days, 8:00:00
+de-de_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\de-de_bt_box_visual_kindle04.png,.png,2.233kb ,18967 days, 8:00:00
+en-us_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\en-us_bt_box_visual_kindle01.png,.png,12.817kb ,18967 days, 8:00:00
+en-us_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\en-us_bt_box_visual_kindle02.png,.png,8.668000000000001kb ,18967 days, 8:00:00
+en-us_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\en-us_bt_box_visual_kindle03.png,.png,12.047kb ,18967 days, 8:00:00
+en-us_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\en-us_bt_box_visual_kindle04.png,.png,2.081kb ,18967 days, 8:00:00
+es-es_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\es-es_bt_box_visual_kindle01.png,.png,12.528kb ,18967 days, 8:00:00
+es-es_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\es-es_bt_box_visual_kindle02.png,.png,8.641kb ,18967 days, 8:00:00
+es-es_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\es-es_bt_box_visual_kindle03.png,.png,12.094kb ,18967 days, 8:00:00
+es-es_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\es-es_bt_box_visual_kindle04.png,.png,2.04kb ,18967 days, 8:00:00
+fr-fr_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\fr-fr_bt_box_visual_kindle01.png,.png,12.972kb ,18967 days, 8:00:00
+fr-fr_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\fr-fr_bt_box_visual_kindle02.png,.png,8.786kb ,18967 days, 8:00:00
+fr-fr_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\fr-fr_bt_box_visual_kindle03.png,.png,12.469kb ,18967 days, 8:00:00
+fr-fr_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\fr-fr_bt_box_visual_kindle04.png,.png,2.111kb ,18967 days, 8:00:00
+ja-jp_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ja-jp_bt_box_visual_kindle01.png,.png,13.612kb ,18967 days, 8:00:00
+ja-jp_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ja-jp_bt_box_visual_kindle02.png,.png,9.575000000000001kb ,18967 days, 8:00:00
+ja-jp_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ja-jp_bt_box_visual_kindle03.png,.png,13.608kb ,18967 days, 8:00:00
+ja-jp_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ja-jp_bt_box_visual_kindle04.png,.png,1.856kb ,18967 days, 8:00:00
+ko-kr_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ko-kr_bt_box_visual_kindle01.png,.png,13.107000000000001kb ,18967 days, 8:00:00
+ko-kr_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ko-kr_bt_box_visual_kindle02.png,.png,8.844kb ,18967 days, 8:00:00
+ko-kr_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ko-kr_bt_box_visual_kindle03.png,.png,11.031kb ,18967 days, 8:00:00
+ko-kr_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\ko-kr_bt_box_visual_kindle04.png,.png,2.069kb ,18967 days, 8:00:00
+zh-tw_bt_box_visual_kindle01.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\zh-tw_bt_box_visual_kindle01.png,.png,13.487kb ,18967 days, 8:00:00
+zh-tw_bt_box_visual_kindle02.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\zh-tw_bt_box_visual_kindle02.png,.png,9.364kb ,18967 days, 8:00:00
+zh-tw_bt_box_visual_kindle03.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\zh-tw_bt_box_visual_kindle03.png,.png,11.576kb ,18967 days, 8:00:00
+zh-tw_bt_box_visual_kindle04.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\kindle\zh-tw_bt_box_visual_kindle04.png,.png,2.078kb ,18967 days, 8:00:00
+noimage_l.jpg,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\noimage\noimage_l.jpg,.jpg,9.778kb ,18967 days, 8:00:00
+noimage_m.jpg,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\noimage\noimage_m.jpg,.jpg,2.053kb ,18967 days, 8:00:00
+noimage_s.jpg,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\noimage\noimage_s.jpg,.jpg,1.0150000000000001kb ,18967 days, 8:00:00
+noimage_xs.jpg,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\noimage\noimage_xs.jpg,.jpg,0.618kb ,18967 days, 8:00:00
+icons_cloud.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\sp\icons_cloud.png,.png,6.873kb ,18967 days, 8:00:00
+icon_sp_darks.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\sp\icon_sp_darks.png,.png,33.167kb ,18967 days, 8:00:00
+icon_sp_lights.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\sp\icon_sp_lights.png,.png,33.193kb ,18967 days, 8:00:00
+bt_box_visual_action.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_action.png,.png,7.369kb ,18967 days, 8:00:00
+bt_box_visual_coordinate.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_coordinate.png,.png,8.868kb ,18967 days, 8:00:00
+bt_box_visual_modeler.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_modeler.png,.png,7.417kb ,18967 days, 8:00:00
+bt_box_visual_paint.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_paint.png,.png,7.915kb ,18967 days, 8:00:00
+bt_box_visual_pixiv.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_pixiv.png,.png,25.851kb ,18967 days, 8:00:00
+bt_box_visual_question.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_box_visual_question.png,.png,1.965kb ,18967 days, 8:00:00
+bt_type01_gradation.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\bt_type01_gradation.png,.png,16.854kb ,18967 days, 8:00:00
+icon_all.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\icon_all.png,.png,11.86kb ,18967 days, 8:00:00
+logo_clip.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\img\start\logo_clip.png,.png,0.643kb ,18967 days, 8:00:00
+material_detail.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\material_detail.html,.html,6.704kb ,18967 days, 8:00:00
+material_edit.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\material_edit.html,.html,6.711kb ,18967 days, 8:00:00
+material_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\material_index.html,.html,6.445kb ,18967 days, 8:00:00
+offline.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\offline.html,.html,1.362kb ,18967 days, 8:00:00
+online.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\online.html,.html,2.406kb ,18967 days, 8:00:00
+cloud_setting.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\cloud_setting.html,.html,4.069kb ,18967 days, 8:00:00
+material_detail.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\material_detail.html,.html,6.724kb ,18967 days, 8:00:00
+material_edit.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\material_edit.html,.html,6.968kb ,18967 days, 8:00:00
+material_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\material_index.html,.html,4.662kb ,18967 days, 8:00:00
+offline.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\offline.html,.html,1.345kb ,18967 days, 8:00:00
+online.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\online.html,.html,2.021kb ,18967 days, 8:00:00
+start_cloud_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\start_cloud_index.html,.html,3.466kb ,18967 days, 8:00:00
+_description.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\_description.html,.html,2.0260000000000002kb ,18967 days, 8:00:00
+_faces.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\_faces.html,.html,1.328kb ,18967 days, 8:00:00
+_movie_thumbnail.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\Phone\_movie_thumbnail.html,.html,1.602kb ,18967 days, 8:00:00
+project_edit.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_edit.html,.html,3.939kb ,18967 days, 8:00:00
+project_epub.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_epub.html,.html,4.199kb ,18967 days, 8:00:00
+project_epub_header.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_epub_header.html,.html,1.506kb ,18967 days, 8:00:00
+project_express_header.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_express_header.html,.html,1.306kb ,18967 days, 8:00:00
+project_fanzine.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_fanzine.html,.html,6.444kb ,18967 days, 8:00:00
+project_fanzine_header.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_fanzine_header.html,.html,1.5210000000000001kb ,18967 days, 8:00:00
+project_fanzine_web.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_fanzine_web.html,.html,3.801kb ,18967 days, 8:00:00
+project_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_index.html,.html,9.186kb ,18967 days, 8:00:00
+project_kindle.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_kindle.html,.html,5.539kb ,18967 days, 8:00:00
+project_kindle_header.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_kindle_header.html,.html,1.73kb ,18967 days, 8:00:00
+project_kindle_previewtool.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_kindle_previewtool.html,.html,2.854kb ,18967 days, 8:00:00
+project_print.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\project_print.html,.html,6.131kb ,18967 days, 8:00:00
+main.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\resource\main.js,.js,19.243000000000002kb ,18967 days, 8:00:00
+page.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\resource\page.js,.js,112.671kb ,18967 days, 8:00:00
+cloud.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\cloud.js,.js,3.7520000000000002kb ,18967 days, 8:00:00
+border.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\border.png,.png,0.20700000000000002kb ,18967 days, 8:00:00
+colorbox.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\colorbox.css,.css,2.762kb ,18967 days, 8:00:00
+controls.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\controls.png,.png,2.1350000000000002kb ,18967 days, 8:00:00
+jquery.colorbox-min.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\jquery.colorbox-min.js,.js,11.095kb ,18967 days, 8:00:00
+loading.gif,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\loading.gif,.gif,1.084kb ,18967 days, 8:00:00
+loading_background.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\colorbox\loading_background.png,.png,0.166kb ,18967 days, 8:00:00
+common.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\common.js,.js,1.184kb ,18967 days, 8:00:00
+design.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\design.js,.js,0.59kb ,18967 days, 8:00:00
+editor.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\editor.js,.js,528.018kb ,18967 days, 8:00:00
+faces.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\faces.js,.js,1.6440000000000001kb ,18967 days, 8:00:00
+function_csv.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\function_csv.js,.js,1.006kb ,18967 days, 8:00:00
+html_filter.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\html_filter.js,.js,4.782kb ,18967 days, 8:00:00
+jquery.easing.1.3.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\jquery.easing.1.3.js,.js,8.097kb ,18967 days, 8:00:00
+jquery.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\jquery.js,.js,57.257kb ,18967 days, 8:00:00
+jquery.parapara.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\jquery.parapara.js,.js,5.739kb ,18967 days, 8:00:00
+jquery.vgrid.min.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\jquery.vgrid.min.js,.js,5.9270000000000005kb ,18967 days, 8:00:00
+jqueryAutoHeight.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\jqueryAutoHeight.js,.js,2.499kb ,18967 days, 8:00:00
+main.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\main.js,.js,7.57kb ,18967 days, 8:00:00
+material.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\material.js,.js,3.257kb ,18967 days, 8:00:00
+material_detail.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\material_detail.js,.js,25.707kb ,18967 days, 8:00:00
+material_edit.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\material_edit.js,.js,25.466kb ,18967 days, 8:00:00
+parapara_setting.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\parapara_setting.js,.js,2.019kb ,18967 days, 8:00:00
+project.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\project.js,.js,7.087kb ,18967 days, 8:00:00
+project_edit.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\project_edit.js,.js,8.465kb ,18967 days, 8:00:00
+slidemove.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\slidemove.js,.js,2.27kb ,18967 days, 8:00:00
+software.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\software.js,.js,5.321kb ,18967 days, 8:00:00
+sp.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\sp.js,.js,3.81kb ,18967 days, 8:00:00
+spin.min.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\spin.min.js,.js,4.499kb ,18967 days, 8:00:00
+start.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start.js,.js,2.08kb ,18967 days, 8:00:00
+start_action.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_action.js,.js,0.448kb ,18967 days, 8:00:00
+start_cloud.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_cloud.js,.js,0.294kb ,18967 days, 8:00:00
+start_epub.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_epub.js,.js,0.922kb ,18967 days, 8:00:00
+start_fanzine.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_fanzine.js,.js,0.922kb ,18967 days, 8:00:00
+start_kindle.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_kindle.js,.js,1.5030000000000001kb ,18967 days, 8:00:00
+start_modeler.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_modeler.js,.js,0.449kb ,18967 days, 8:00:00
+start_paint.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\start_paint.js,.js,2.5540000000000003kb ,18967 days, 8:00:00
+_frame_listener.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\_frame_listener.js,.js,0.622kb ,18967 days, 8:00:00
+_parent_listener.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\scripts\_parent_listener.js,.js,0.61kb ,18967 days, 8:00:00
+start_action_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_action_index.html,.html,4.1690000000000005kb ,18967 days, 8:00:00
+start_cloud_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_cloud_index.html,.html,3.567kb ,18967 days, 8:00:00
+start_epub_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_epub_index.html,.html,3.2600000000000002kb ,18967 days, 8:00:00
+start_fanzine_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_fanzine_index.html,.html,3.521kb ,18967 days, 8:00:00
+start_kindle_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_kindle_index.html,.html,4.135kb ,18967 days, 8:00:00
+start_modeler_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_modeler_index.html,.html,5.756kb ,18967 days, 8:00:00
+start_paint_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_paint_index.html,.html,6.996kb ,18967 days, 8:00:00
+start_pixiv_index.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\start_pixiv_index.html,.html,4.236kb ,18967 days, 8:00:00
+_description.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\_description.html,.html,1.78kb ,18967 days, 8:00:00
+_faces.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\_faces.html,.html,1.354kb ,18967 days, 8:00:00
+_movie_thumbnail.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\HTML\_movie_thumbnail.html,.html,1.587kb ,18967 days, 8:00:00
+catalogThumb.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\img\catalogThumb.png,.png,22.372kb ,18967 days, 8:00:00
+icon@1x.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\assets\icon@1x.png,.png,10.200000000000001kb ,18967 days, 8:00:00
+icon@2x.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\assets\icon@2x.png,.png,27.646kb ,18967 days, 8:00:00
+icon@4x.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\assets\icon@4x.png,.png,80.355kb ,18967 days, 8:00:00
+side_menu.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\assets\side_menu.css,.css,5.761kb ,18967 days, 8:00:00
+side_menu.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\assets\side_menu.js,.js,95.11200000000001kb ,18967 days, 8:00:00
+side_menu.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\Settings\CLIP STUDIO2\1.0.9\MENU\side_menu.html,.html,2.0kb ,18967 days, 8:00:00
+TGCxsPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\TGCxsPlugIn.cfpi,.cfpi,15.36kb ,18967 days, 8:00:00
+TGMaterialPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\TGMaterialPlugIn.cfpi,.cfpi,15.872kb ,18967 days, 8:00:00
+TGTosPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\TGTosPlugIn.cfpi,.cfpi,15.36kb ,18967 days, 8:00:00
+TGXPGPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\TGXPGPlugIn.cfpi,.cfpi,16.896kb ,18967 days, 8:00:00
+TGXPGPlugInCore.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\TGXPGPlugInCore.dll,.dll,216.536kb ,18967 days, 8:00:00
+tiff.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\tiff.dll,.dll,381.952kb ,18967 days, 8:00:00
+ucrtbase.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\ucrtbase.dll,.dll,1193.808kb ,18967 days, 8:00:00
+api-ms-win-core-console-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-console-l1-1-0.dll,.dll,20.52kb ,18967 days, 8:00:00
+api-ms-win-core-console-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-console-l1-2-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-datetime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-datetime-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-debug-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-debug-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-errorhandling-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-errorhandling-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-file-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-file-l1-1-0.dll,.dll,23.168kb ,18967 days, 8:00:00
+api-ms-win-core-file-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-file-l1-2-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-file-l2-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-file-l2-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-handle-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-handle-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-heap-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-interlocked-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-interlocked-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-libraryloader-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-libraryloader-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-localization-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-localization-l1-2-0.dll,.dll,22.144000000000002kb ,18967 days, 8:00:00
+api-ms-win-core-memory-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-memory-l1-1-0.dll,.dll,20.312kb ,18967 days, 8:00:00
+api-ms-win-core-namedpipe-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-namedpipe-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-processenvironment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-processenvironment-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-processthreads-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-processthreads-l1-1-1.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-profile-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-profile-l1-1-0.dll,.dll,19.072kb ,18967 days, 8:00:00
+api-ms-win-core-rtlsupport-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-rtlsupport-l1-1-0.dll,.dll,19.072kb ,18967 days, 8:00:00
+api-ms-win-core-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-string-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-core-synch-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-synch-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-core-synch-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-synch-l1-2-0.dll,.dll,20.336000000000002kb ,18967 days, 8:00:00
+api-ms-win-core-sysinfo-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-sysinfo-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-core-timezone-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-timezone-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-core-util-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-core-util-l1-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+API-MS-Win-core-xstate-l2-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\API-MS-Win-core-xstate-l2-1-0.dll,.dll,19.584kb ,18967 days, 8:00:00
+api-ms-win-crt-conio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-conio-l1-1-0.dll,.dll,20.824kb ,18967 days, 8:00:00
+api-ms-win-crt-convert-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-convert-l1-1-0.dll,.dll,23.68kb ,18967 days, 8:00:00
+api-ms-win-crt-environment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-environment-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-crt-filesystem-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-filesystem-l1-1-0.dll,.dll,21.632kb ,18967 days, 8:00:00
+api-ms-win-crt-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-heap-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-crt-locale-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-locale-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+api-ms-win-crt-math-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-math-l1-1-0.dll,.dll,30.336000000000002kb ,18967 days, 8:00:00
+api-ms-win-crt-multibyte-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-multibyte-l1-1-0.dll,.dll,27.776kb ,18967 days, 8:00:00
+api-ms-win-crt-private-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-private-l1-1-0.dll,.dll,74.368kb ,18967 days, 8:00:00
+api-ms-win-crt-process-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-process-l1-1-0.dll,.dll,20.608kb ,18967 days, 8:00:00
+api-ms-win-crt-runtime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-runtime-l1-1-0.dll,.dll,24.192kb ,18967 days, 8:00:00
+api-ms-win-crt-stdio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-stdio-l1-1-0.dll,.dll,25.944kb ,18967 days, 8:00:00
+api-ms-win-crt-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-string-l1-1-0.dll,.dll,25.728kb ,18967 days, 8:00:00
+api-ms-win-crt-time-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-time-l1-1-0.dll,.dll,22.144000000000002kb ,18967 days, 8:00:00
+api-ms-win-crt-utility-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\api-ms-win-crt-utility-l1-1-0.dll,.dll,20.096kb ,18967 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\boost_system.dll,.dll,8.704kb ,18967 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\boost_thread.dll,.dll,80.896kb ,18967 days, 8:00:00
+CLIPStudioUpdater.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\CLIPStudioUpdater.exe,.exe,3492.312kb ,18967 days, 8:00:00
+concrt140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\concrt140.dll,.dll,252.20000000000002kb ,18967 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\giflib.dll,.dll,28.672kb ,18967 days, 8:00:00
+jpeg62.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\jpeg62.dll,.dll,520.7040000000001kb ,18967 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\libpng16.dll,.dll,164.352kb ,18967 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcp100.dll,.dll,421.2kb ,18967 days, 8:00:00
+msvcp140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcp140.dll,.dll,456.48kb ,18967 days, 8:00:00
+msvcp140_1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcp140_1.dll,.dll,28.96kb ,18967 days, 8:00:00
+msvcp140_2.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcp140_2.dll,.dll,174.368kb ,18967 days, 8:00:00
+msvcp140_codecvt_ids.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcp140_codecvt_ids.dll,.dll,26.400000000000002kb ,18967 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\msvcr100.dll,.dll,773.968kb ,18967 days, 8:00:00
+tiff.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\tiff.dll,.dll,381.952kb ,18967 days, 8:00:00
+ucrtbase.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\ucrtbase.dll,.dll,1193.808kb ,18967 days, 8:00:00
+vccorlib140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\vccorlib140.dll,.dll,275.232kb ,18967 days, 8:00:00
+vcomp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\vcomp100.dll,.dll,51.024kb ,18967 days, 8:00:00
+vcruntime140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\vcruntime140.dll,.dll,83.752kb ,18967 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\updater\zlib.dll,.dll,74.752kb ,18967 days, 8:00:00
+vccorlib140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\vccorlib140.dll,.dll,275.232kb ,18967 days, 8:00:00
+vcomp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\vcomp100.dll,.dll,51.024kb ,18967 days, 8:00:00
+vcruntime140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\vcruntime140.dll,.dll,83.752kb ,18967 days, 8:00:00
+WKBridge.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\WKBridge.dll,.dll,261.12kb ,18967 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\zlib.dll,.dll,74.752kb ,18967 days, 8:00:00
+ailia.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ailia.dll,.dll,1927.08kb ,19040 days, 8:00:00
+ailia_amp.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ailia_amp.dll,.dll,927.6560000000001kb ,19040 days, 8:00:00
+ailia_blas.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ailia_blas.dll,.dll,11948.968kb ,19040 days, 8:00:00
+ailia_cuda.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ailia_cuda.dll,.dll,697.768kb ,19040 days, 8:00:00
+api-ms-win-core-console-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-console-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-core-console-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-console-l1-2-0.dll,.dll,21.024kb ,19040 days, 8:00:00
+api-ms-win-core-datetime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-datetime-l1-1-0.dll,.dll,20.512kb ,19040 days, 8:00:00
+api-ms-win-core-debug-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-debug-l1-1-0.dll,.dll,20.544kb ,19040 days, 8:00:00
+api-ms-win-core-errorhandling-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-errorhandling-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-file-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-file-l1-1-0.dll,.dll,24.104kb ,19040 days, 8:00:00
+api-ms-win-core-file-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-file-l1-2-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-file-l2-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-file-l2-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-handle-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-handle-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-heap-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-core-interlocked-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-interlocked-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-libraryloader-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-libraryloader-l1-1-0.dll,.dll,21.568kb ,19040 days, 8:00:00
+api-ms-win-core-localization-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-localization-l1-2-0.dll,.dll,23.080000000000002kb ,19040 days, 8:00:00
+api-ms-win-core-memory-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-memory-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-core-namedpipe-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-namedpipe-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-processenvironment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-processenvironment-l1-1-0.dll,.dll,21.544kb ,19040 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-processthreads-l1-1-0.dll,.dll,22.56kb ,19040 days, 8:00:00
+api-ms-win-core-processthreads-l1-1-1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-processthreads-l1-1-1.dll,.dll,21.056kb ,19040 days, 8:00:00
+api-ms-win-core-profile-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-profile-l1-1-0.dll,.dll,20.008kb ,19040 days, 8:00:00
+api-ms-win-core-rtlsupport-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-rtlsupport-l1-1-0.dll,.dll,21.056kb ,19040 days, 8:00:00
+api-ms-win-core-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-string-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-core-synch-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-synch-l1-1-0.dll,.dll,22.568kb ,19040 days, 8:00:00
+api-ms-win-core-synch-l1-2-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-synch-l1-2-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-core-sysinfo-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-sysinfo-l1-1-0.dll,.dll,21.544kb ,19040 days, 8:00:00
+api-ms-win-core-timezone-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-timezone-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-core-util-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-core-util-l1-1-0.dll,.dll,20.52kb ,19040 days, 8:00:00
+api-ms-win-crt-conio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-conio-l1-1-0.dll,.dll,21.544kb ,19040 days, 8:00:00
+api-ms-win-crt-convert-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-convert-l1-1-0.dll,.dll,24.616kb ,19040 days, 8:00:00
+api-ms-win-crt-environment-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-environment-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-crt-filesystem-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-filesystem-l1-1-0.dll,.dll,22.568kb ,19040 days, 8:00:00
+api-ms-win-crt-heap-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-heap-l1-1-0.dll,.dll,21.544kb ,19040 days, 8:00:00
+api-ms-win-crt-locale-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-locale-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+api-ms-win-crt-math-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-math-l1-1-0.dll,.dll,29.528000000000002kb ,19040 days, 8:00:00
+api-ms-win-crt-multibyte-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-multibyte-l1-1-0.dll,.dll,28.736kb ,19040 days, 8:00:00
+api-ms-win-crt-private-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-private-l1-1-0.dll,.dll,73.048kb ,19040 days, 8:00:00
+api-ms-win-crt-process-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-process-l1-1-0.dll,.dll,21.568kb ,19040 days, 8:00:00
+api-ms-win-crt-runtime-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-runtime-l1-1-0.dll,.dll,25.128kb ,19040 days, 8:00:00
+api-ms-win-crt-stdio-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-stdio-l1-1-0.dll,.dll,26.664kb ,19040 days, 8:00:00
+api-ms-win-crt-string-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-string-l1-1-0.dll,.dll,26.664kb ,19040 days, 8:00:00
+api-ms-win-crt-time-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-time-l1-1-0.dll,.dll,23.080000000000002kb ,19040 days, 8:00:00
+api-ms-win-crt-utility-l1-1-0.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\api-ms-win-crt-utility-l1-1-0.dll,.dll,21.032kb ,19040 days, 8:00:00
+AudioUtl.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\AudioUtl.dll,.dll,135.168kb ,19040 days, 8:00:00
+boost_date_time.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\boost_date_time.dll,.dll,50.176kb ,19040 days, 8:00:00
+boost_regex.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\boost_regex.dll,.dll,822.784kb ,19040 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\boost_system.dll,.dll,9.728kb ,19040 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\boost_thread.dll,.dll,83.968kb ,19040 days, 8:00:00
+ClipPreview.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ClipPreview.dll,.dll,1159.68kb ,19040 days, 8:00:00
+CLIPStudioPaint.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\CLIPStudioPaint.exe,.exe,66341.76kb ,19040 days, 8:00:00
+concrt140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\concrt140.dll,.dll,317.224kb ,19040 days, 8:00:00
+d3dcompiler_47.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\d3dcompiler_47.dll,.dll,4493.352kb ,19040 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\giflib.dll,.dll,35.84kb ,19040 days, 8:00:00
+iswCmnTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\iswCmnTG.dll,.dll,1184.728kb ,19040 days, 8:00:00
+iswCoreTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\iswCoreTG.dll,.dll,4540.888kb ,19040 days, 8:00:00
+jpeg62.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\jpeg62.dll,.dll,536.064kb ,19040 days, 8:00:00
+known issues.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\chinese\known issues.txt,.txt,0.356kb ,19040 days, 8:00:00
+Readme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\chinese\Readme.txt,.txt,5.058kb ,19040 days, 8:00:00
+Release Notes.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\chinese\Release Notes.html,.html,31.233kb ,19040 days, 8:00:00
+known issues.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\dutch\known issues.txt,.txt,0.554kb ,19040 days, 8:00:00
+Readme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\dutch\Readme.txt,.txt,5.811kb ,19040 days, 8:00:00
+Release Notes.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\dutch\Release Notes.html,.html,36.003kb ,19040 days, 8:00:00
+known issues.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\english\known issues.txt,.txt,0.434kb ,19040 days, 8:00:00
+Readme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\english\Readme.txt,.txt,5.039kb ,19040 days, 8:00:00
+Release Notes.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\english\Release Notes.html,.html,31.255kb ,19040 days, 8:00:00
+Lisez-moi.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\french\Lisez-moi.txt,.txt,5.884kb ,19040 days, 8:00:00
+Notes de version.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\french\Notes de version.html,.html,38.066kb ,19040 days, 8:00:00
+problemes connus.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\french\problemes connus.txt,.txt,0.545kb ,19040 days, 8:00:00
+bekannte probleme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\german\bekannte probleme.txt,.txt,0.551kb ,19040 days, 8:00:00
+Bittelesen.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\german\Bittelesen.txt,.txt,6.149kb ,19040 days, 8:00:00
+Versionshinweis.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\german\Versionshinweis.html,.html,35.272kb ,19040 days, 8:00:00
+Leggimi.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\italian\Leggimi.txt,.txt,6.299kb ,19040 days, 8:00:00
+Note di pubblicazione.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\italian\Note di pubblicazione.html,.html,34.148kb ,19040 days, 8:00:00
+problemi noti.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\italian\problemi noti.txt,.txt,0.502kb ,19040 days, 8:00:00
+known issues.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\japanese\known issues.txt,.txt,0.536kb ,19040 days, 8:00:00
+Readme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\japanese\Readme.txt,.txt,7.306kb ,19040 days, 8:00:00
+Release Notes.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\japanese\Release Notes.html,.html,41.992kb ,19040 days, 8:00:00
+Leerme.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\spanish\Leerme.txt,.txt,5.668kb ,19040 days, 8:00:00
+Notas de la version.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\spanish\Notas de la version.html,.html,38.57kb ,19040 days, 8:00:00
+problemas conocidos.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\docs\spanish\problemas conocidos.txt,.txt,0.523kb ,19040 days, 8:00:00
+EULA.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA.txt,.txt,3.875kb ,19040 days, 8:00:00
+EULA_Chinese.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_Chinese.txt,.txt,3.286kb ,19040 days, 8:00:00
+EULA_Dutch.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_Dutch.txt,.txt,4.24kb ,19040 days, 8:00:00
+EULA_French.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_French.txt,.txt,4.746kb ,19040 days, 8:00:00
+EULA_German.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_German.txt,.txt,4.616kb ,19040 days, 8:00:00
+EULA_Italian.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_Italian.txt,.txt,4.406kb ,19040 days, 8:00:00
+EULA_Japanese.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_Japanese.txt,.txt,5.0280000000000005kb ,19040 days, 8:00:00
+EULA_Spanish.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\EULA_Spanish.txt,.txt,4.402kb ,19040 days, 8:00:00
+KindleGen Legal Notices 2013-02-19 Windows.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\KindleGen Legal Notices 2013-02-19 Windows.txt,.txt,42.567kb ,19040 days, 8:00:00
+KindleGen OSS Notices 2009-07-29-Windows.txt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\KindleGen OSS Notices 2009-07-29-Windows.txt,.txt,15.995000000000001kb ,19040 days, 8:00:00
+kindlegen.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\kindlegen.exe,.exe,7908.16kb ,19040 days, 8:00:00
+manual.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\kindlegen\manual.html,.html,3.672kb ,19040 days, 8:00:00
+libfbxsdk.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\libfbxsdk.dll,.dll,10183.552kb ,19040 days, 8:00:00
+libiomp5md.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\libiomp5md.dll,.dll,1345.32kb ,19040 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\libpng16.dll,.dll,195.072kb ,19040 days, 8:00:00
+LipExt.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\LipExt.exe,.exe,90.072kb ,19040 days, 8:00:00
+LipPreview.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\LipPreview.dll,.dll,935.424kb ,19040 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcp100.dll,.dll,608.08kb ,19040 days, 8:00:00
+msvcp140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcp140.dll,.dll,590.6320000000001kb ,19040 days, 8:00:00
+msvcp140_1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcp140_1.dll,.dll,31.528000000000002kb ,19040 days, 8:00:00
+msvcp140_2.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcp140_2.dll,.dll,193.832kb ,19040 days, 8:00:00
+msvcp140_codecvt_ids.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcp140_codecvt_ids.dll,.dll,27.936kb ,19040 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\msvcr100.dll,.dll,829.264kb ,19040 days, 8:00:00
+OpenAL32.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\OpenAL32.dll,.dll,861.184kb ,19040 days, 8:00:00
+Dust.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Dust.dll,.dll,149.376kb ,19040 days, 8:00:00
+ExportPDFX.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ExportPDFX.dll,.dll,856.448kb ,19040 days, 8:00:00
+ExportPSB.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ExportPSB.dll,.dll,269.696kb ,19040 days, 8:00:00
+ExportPSD.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ExportPSD.dll,.dll,269.696kb ,19040 days, 8:00:00
+FlowBasedAbstraction.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\FlowBasedAbstraction.dll,.dll,408.44800000000004kb ,19040 days, 8:00:00
+GaussBlur.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\GaussBlur.dll,.dll,162.17600000000002kb ,19040 days, 8:00:00
+ImportPDFX.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ImportPDFX.dll,.dll,3395.968kb ,19040 days, 8:00:00
+ImportPSB.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ImportPSB.dll,.dll,227.71200000000002kb ,19040 days, 8:00:00
+ImportPSD.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\ImportPSD.dll,.dll,227.71200000000002kb ,19040 days, 8:00:00
+LensDistortion.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\LensDistortion.dll,.dll,155.52kb ,19040 days, 8:00:00
+LineWidth.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\LineWidth.dll,.dll,143.744kb ,19040 days, 8:00:00
+Mosaic.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Mosaic.dll,.dll,145.792kb ,19040 days, 8:00:00
+MotionBlur.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\MotionBlur.dll,.dll,172.416kb ,19040 days, 8:00:00
+PerlinNoise.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\PerlinNoise.dll,.dll,144.768kb ,19040 days, 8:00:00
+Pinch.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Pinch.dll,.dll,168.832kb ,19040 days, 8:00:00
+PolarCd.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\PolarCd.dll,.dll,150.4kb ,19040 days, 8:00:00
+RadialBlur.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\RadialBlur.dll,.dll,158.592kb ,19040 days, 8:00:00
+Sharp.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Sharp.dll,.dll,144.256kb ,19040 days, 8:00:00
+SharpOff.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\SharpOff.dll,.dll,149.888kb ,19040 days, 8:00:00
+SharpOffStrong.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\SharpOffStrong.dll,.dll,150.4kb ,19040 days, 8:00:00
+SharpStrong.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\SharpStrong.dll,.dll,144.256kb ,19040 days, 8:00:00
+SimpleWave.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\SimpleWave.dll,.dll,151.936kb ,19040 days, 8:00:00
+Smoothing.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Smoothing.dll,.dll,161.66400000000002kb ,19040 days, 8:00:00
+Sphere.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Sphere.dll,.dll,158.592kb ,19040 days, 8:00:00
+Spiral.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Spiral.dll,.dll,170.88kb ,19040 days, 8:00:00
+TPReduceNoiseFilter.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\TPReduceNoiseFilter.dll,.dll,801.152kb ,19040 days, 8:00:00
+UnSharpMask.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\UnSharpMask.dll,.dll,162.17600000000002kb ,19040 days, 8:00:00
+Waveform.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Waveform.dll,.dll,159.616kb ,19040 days, 8:00:00
+Zigzag.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\PlugIn\PAINT\Zigzag.dll,.dll,155.008kb ,19040 days, 8:00:00
+QmPdkDll.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\QmPdkDll.dll,.dll,5719.04kb ,19040 days, 8:00:00
+rtwUtl.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\rtwUtl.dll,.dll,245.76kb ,19040 days, 8:00:00
+rtwUtlTG.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\rtwUtlTG.dll,.dll,74.2kb ,19040 days, 8:00:00
+boost_chrono.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\boost_chrono.dll,.dll,23.552kb ,19040 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\boost_system.dll,.dll,15.872kb ,19040 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\boost_thread.dll,.dll,83.968kb ,19040 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\giflib.dll,.dll,27.136kb ,19040 days, 8:00:00
+IccProfLib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\IccProfLib.dll,.dll,373.76kb ,19040 days, 8:00:00
+libjpeg.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\libjpeg.dll,.dll,201.216kb ,19040 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\libpng16.dll,.dll,196.608kb ,19040 days, 8:00:00
+libtiff.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\libtiff.dll,.dll,429.568kb ,19040 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\msvcp100.dll,.dll,421.2kb ,19040 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\msvcr100.dll,.dll,773.968kb ,19040 days, 8:00:00
+scan.exe,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\scan.exe,.exe,3114.752kb ,19040 days, 8:00:00
+vcomp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\vcomp100.dll,.dll,51.024kb ,19040 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\scan\zlib.dll,.dll,86.528kb ,19040 days, 8:00:00
+bonescale_preset01.3dp,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\bonescale_preset01.3dp,.3dp,0.496kb ,19040 days, 8:00:00
+bonescale_preset02.3dp,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\bonescale_preset02.3dp,.3dp,0.611kb ,19040 days, 8:00:00
+default_model_man.c2fr,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\default_model_man.c2fr,.c2fr,6839.808kb ,19040 days, 8:00:00
+default_model_woman.c2fr,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\default_model_woman.c2fr,.c2fr,6375.936kb ,19040 days, 8:00:00
+default_pose_ver2.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\default_pose_ver2.pep,.pep,13.313kb ,19040 days, 8:00:00
+dessindoll_man_ver1.c3dd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\dessindoll_man_ver1.c3dd,.c3dd,9378.816kb ,19040 days, 8:00:00
+dessindoll_man_ver2.c3dd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\dessindoll_man_ver2.c3dd,.c3dd,2832.384kb ,19040 days, 8:00:00
+dessindoll_woman_ver1.c3dd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\dessindoll_woman_ver1.c3dd,.c3dd,9378.816kb ,19040 days, 8:00:00
+dessindoll_woman_ver2.c3dd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\dessindoll_woman_ver2.c3dd,.c3dd,2736.128kb ,19040 days, 8:00:00
+handsetup_gu00.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_gu00.pep,.pep,4.579kb ,19040 days, 8:00:00
+handsetup_gu01.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_gu01.pep,.pep,4.578kb ,19040 days, 8:00:00
+handsetup_gu02.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_gu02.pep,.pep,4.575kb ,19040 days, 8:00:00
+handsetup_gu03.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_gu03.pep,.pep,4.574kb ,19040 days, 8:00:00
+handsetup_pa00.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_pa00.pep,.pep,4.6290000000000004kb ,19040 days, 8:00:00
+handsetup_pa01.pep,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\3D\handsetup_pa01.pep,.pep,4.371kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\chinese_sc\default.laf,.laf,12.669kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\chinese_tc\default.laf,.laf,12.769kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\english\default.laf,.laf,12.669kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\french\default.laf,.laf,12.833kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\german\default.laf,.laf,12.721kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\japanese\default.laf,.laf,12.797kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\korean\default.laf,.laf,12.677kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\other\default.laf,.laf,12.669kb ,19040 days, 8:00:00
+default.laf,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Action\spanish\default.laf,.laf,12.723kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\chinese_sc\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\chinese_tc\BrushPreset.bfps,.bfps,53.248000000000005kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\english\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\french\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\german\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\japanese\BrushPreset.bfps,.bfps,50.176kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\korean\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\other\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+BrushPreset.bfps,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\BrushPreset\spanish\BrushPreset.bfps,.bfps,51.2kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\001.cls,.cls,4.564kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\002.cls,.cls,4.522kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_sc\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\001.cls,.cls,2.494kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\002.cls,.cls,4.502kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\chinese_tc\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\001.cls,.cls,4.564kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\002.cls,.cls,4.522kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\english\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\001.cls,.cls,4.674kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\002.cls,.cls,4.532kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\french\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\001.cls,.cls,4.938kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\002.cls,.cls,4.516kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\DarkGrayish.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\Grayish.cls,.cls,0.335kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\LightGrayish.cls,.cls,0.334kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\german\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\001.cls,.cls,2.632kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\002.cls,.cls,4.522kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\japanese\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\001.cls,.cls,3.166kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\002.cls,.cls,4.51kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\korean\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\001.cls,.cls,4.564kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\002.cls,.cls,4.522kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\other\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+001.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\001.cls,.cls,4.939kb ,19040 days, 8:00:00
+002.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\002.cls,.cls,4.5360000000000005kb ,19040 days, 8:00:00
+BrightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\BrightTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+DarkGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\DarkGrayish.cls,.cls,0.34kb ,19040 days, 8:00:00
+DarkTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\DarkTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DeepTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\DeepTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+DullTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\DullTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+Grayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\Grayish.cls,.cls,0.332kb ,19040 days, 8:00:00
+LightGrayish.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\LightGrayish.cls,.cls,0.342kb ,19040 days, 8:00:00
+LightTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\LightTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+PaleTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\PaleTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+SoftTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\SoftTone.cls,.cls,0.334kb ,19040 days, 8:00:00
+StrongTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\StrongTone.cls,.cls,0.338kb ,19040 days, 8:00:00
+VividTone.cls,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ColorSet\spanish\VividTone.cls,.cls,0.336kb ,19040 days, 8:00:00
+brushsize.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\brushsize.png,.png,0.495kb ,19040 days, 8:00:00
+parallelruler.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\parallelruler.png,.png,0.753kb ,19040 days, 8:00:00
+rotation.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\rotation.png,.png,0.783kb ,19040 days, 8:00:00
+timeline.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\timeline.png,.png,0.445kb ,19040 days, 8:00:00
+undo.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\undo.png,.png,0.9410000000000001kb ,19040 days, 8:00:00
+zoom.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\DialMenu\zoom.png,.png,0.914kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\chinese_sc\default.sgs,.sgs,11.079kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\chinese_tc\default.sgs,.sgs,11.001kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\english\default.sgs,.sgs,11.079kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\french\default.sgs,.sgs,11.233kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\german\default.sgs,.sgs,11.227kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\japanese\default.sgs,.sgs,11.169kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\korean\default.sgs,.sgs,11.245000000000001kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\other\default.sgs,.sgs,11.079kb ,19040 days, 8:00:00
+default.sgs,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\GradationSet\spanish\default.sgs,.sgs,11.18kb ,19040 days, 8:00:00
+offline.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\css\offline.css,.css,0.617kb ,19040 days, 8:00:00
+other.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\css\other.css,.css,0.464kb ,19040 days, 8:00:00
+touch.css,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\css\touch.css,.css,1.089kb ,19040 days, 8:00:00
+offline.png,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\img\offline.png,.png,43.008kb ,19040 days, 8:00:00
+offline_de-de.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_de-de.html,.html,1.034kb ,19040 days, 8:00:00
+offline_en-us.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_en-us.html,.html,0.994kb ,19040 days, 8:00:00
+offline_es-es.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_es-es.html,.html,1.0050000000000001kb ,19040 days, 8:00:00
+offline_fr-fr.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_fr-fr.html,.html,1.039kb ,19040 days, 8:00:00
+offline_ja-jp.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_ja-jp.html,.html,1.063kb ,19040 days, 8:00:00
+offline_ko-kr.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_ko-kr.html,.html,1.054kb ,19040 days, 8:00:00
+offline_zh-tw.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\mobile\offline_zh-tw.html,.html,0.964kb ,19040 days, 8:00:00
+offline_de-de.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_de-de.html,.html,0.889kb ,19040 days, 8:00:00
+offline_en-us.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_en-us.html,.html,0.878kb ,19040 days, 8:00:00
+offline_es-es.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_es-es.html,.html,0.879kb ,19040 days, 8:00:00
+offline_fr-fr.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_fr-fr.html,.html,0.899kb ,19040 days, 8:00:00
+offline_ja-jp.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_ja-jp.html,.html,0.922kb ,19040 days, 8:00:00
+offline_ko-kr.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_ko-kr.html,.html,0.914kb ,19040 days, 8:00:00
+offline_zh-tw.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\offline_zh-tw.html,.html,0.847kb ,19040 days, 8:00:00
+online.html,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\online.html,.html,2.357kb ,19040 days, 8:00:00
+spin.min.js,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\HTML\scripts\spin.min.js,.js,4.499kb ,19040 days, 8:00:00
+AdobeRGB1998.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\AdobeRGB1998.icc,.icc,0.56kb ,19040 days, 8:00:00
+AppleRGB.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\AppleRGB.icc,.icc,0.552kb ,19040 days, 8:00:00
+ColorMatchRGB.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\ColorMatchRGB.icc,.icc,0.56kb ,19040 days, 8:00:00
+EuropeISOCoatedFOGRA27.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\EuropeISOCoatedFOGRA27.icc,.icc,557.168kb ,19040 days, 8:00:00
+EuroscaleUncoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\EuroscaleUncoated.icc,.icc,557.164kb ,19040 days, 8:00:00
+JapanColor2001Coated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\JapanColor2001Coated.icc,.icc,557.168kb ,19040 days, 8:00:00
+JapanColor2001Uncoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\JapanColor2001Uncoated.icc,.icc,557.168kb ,19040 days, 8:00:00
+JapanColor2002Newspaper.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\JapanColor2002Newspaper.icc,.icc,557.172kb ,19040 days, 8:00:00
+JapanWebCoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\JapanWebCoated.icc,.icc,557.164kb ,19040 days, 8:00:00
+sRGB Color Space Profile.icm,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\sRGB Color Space Profile.icm,.icm,3.144kb ,19040 days, 8:00:00
+USSheetfedCoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\USSheetfedCoated.icc,.icc,557.168kb ,19040 days, 8:00:00
+USSheetfedUncoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\USSheetfedUncoated.icc,.icc,557.168kb ,19040 days, 8:00:00
+USWebCoatedSWOP.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\USWebCoatedSWOP.icc,.icc,557.168kb ,19040 days, 8:00:00
+USWebUncoated.icc,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\ICCProfiles\USWebUncoated.icc,.icc,557.164kb ,19040 days, 8:00:00
+EPUBDeviceInfo.xml,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\KindleDeviceInfo\EPUBDeviceInfo.xml,.xml,1.093kb ,19040 days, 8:00:00
+KindleDeviceInfo.xml,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\KindleDeviceInfo\KindleDeviceInfo.xml,.xml,2.011kb ,19040 days, 8:00:00
+catalogPathRepairTable.cscr,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Material\catalogPathRepairTable.cscr,.cscr,41.984kb ,19040 days, 8:00:00
+InstallPathToCatalogId.dat,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Material\InstallPathToCatalogId.dat,.dat,24.635kb ,19040 days, 8:00:00
+x2.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x2.caffemodel,.caffemodel,160.269kb ,19040 days, 8:00:00
+x2.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x2.prototxt,.prototxt,2.795kb ,19040 days, 8:00:00
+x2_denoise.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x2_denoise.caffemodel,.caffemodel,160.269kb ,19040 days, 8:00:00
+x2_denoise.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x2_denoise.prototxt,.prototxt,2.795kb ,19040 days, 8:00:00
+x3.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x3.caffemodel,.caffemodel,166.049kb ,19040 days, 8:00:00
+x3.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x3.prototxt,.prototxt,2.795kb ,19040 days, 8:00:00
+x3_denoise.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x3_denoise.caffemodel,.caffemodel,166.049kb ,19040 days, 8:00:00
+x3_denoise.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x3_denoise.prototxt,.prototxt,2.795kb ,19040 days, 8:00:00
+x4.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x4.caffemodel,.caffemodel,174.144kb ,19040 days, 8:00:00
+x4.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x4.prototxt,.prototxt,2.7960000000000003kb ,19040 days, 8:00:00
+x4_denoise.caffemodel,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x4_denoise.caffemodel,.caffemodel,174.144kb ,19040 days, 8:00:00
+x4_denoise.prototxt,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PretrainedWeights\SuperResolution\x4_denoise.prototxt,.prototxt,2.7960000000000003kb ,19040 days, 8:00:00
+PrintCoInfo.xml,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\PrintCoInfo\PrintCoInfo.xml,.xml,28.427kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\chinese_sc\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\chinese_sc\EditImageTool.todb,.todb,813.056kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\chinese_tc\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\chinese_tc\EditImageTool.todb,.todb,813.056kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\english\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\english\EditImageTool.todb,.todb,813.056kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\french\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\french\EditImageTool.todb,.todb,814.08kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\german\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\german\EditImageTool.todb,.todb,815.104kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\japanese\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\japanese\EditImageTool.todb,.todb,800.768kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\korean\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\korean\EditImageTool.todb,.todb,813.056kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\other\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\other\EditImageTool.todb,.todb,813.056kb ,19040 days, 8:00:00
+DefaultToolModifyKey.tomd,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\spanish\DefaultToolModifyKey.tomd,.tomd,24.576kb ,19040 days, 8:00:00
+EditImageTool.todb,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\Tool\spanish\EditImageTool.todb,.todb,814.08kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_sc\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_sc\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_sc\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_tc\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_tc\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\chinese_tc\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\english\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\english\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\english\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\french\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\french\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\french\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\german\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\german\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\german\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\japanese\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\japanese\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\japanese\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\korean\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\korean\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\korean\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\other\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\other\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\other\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_0.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\spanish\presetAndroid_0.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetAndroid_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\spanish\presetAndroid_1.spws,.spws,126.976kb ,19040 days, 8:00:00
+presetAndroid_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Android\spanish\presetAndroid_2.spws,.spws,118.784kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_sc\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_sc\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_sc\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_tc\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_tc\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\chinese_tc\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\english\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\english\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\english\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\french\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\french\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\french\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\german\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\german\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\german\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\japanese\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\japanese\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\japanese\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\korean\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\korean\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\korean\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\other\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\other\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\other\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetMac_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\spanish\presetMac_1.spws,.spws,81.92kb ,19040 days, 8:00:00
+presetMac_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\spanish\presetMac_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetMac_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Mac\spanish\presetMac_3.spws,.spws,84.992kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_sc\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_sc\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_sc\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_tc\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_tc\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\chinese_tc\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\english\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\english\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\english\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\french\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\french\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\french\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\german\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\german\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\german\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\japanese\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\japanese\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\japanese\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\korean\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\korean\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\korean\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\other\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\other\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\other\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+presetWin_1.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\spanish\presetWin_1.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_2.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\spanish\presetWin_2.spws,.spws,82.944kb ,19040 days, 8:00:00
+presetWin_3.spws,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\Settings\PAINT\WorkSpace\Win\spanish\presetWin_3.spws,.spws,86.016kb ,19040 days, 8:00:00
+TGCxsPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\TGCxsPlugIn.cfpi,.cfpi,17.92kb ,19040 days, 8:00:00
+TGMaterialPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\TGMaterialPlugIn.cfpi,.cfpi,17.92kb ,19040 days, 8:00:00
+TGTosPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\TGTosPlugIn.cfpi,.cfpi,17.92kb ,19040 days, 8:00:00
+TGXPGPlugIn.cfpi,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\TGXPGPlugIn.cfpi,.cfpi,19.968kb ,19040 days, 8:00:00
+TGXPGPlugInCore.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\TGXPGPlugInCore.dll,.dll,231.89600000000002kb ,19040 days, 8:00:00
+tiff.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\tiff.dll,.dll,431.104kb ,19040 days, 8:00:00
+triglavwinrt.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\triglavwinrt.dll,.dll,182.17600000000002kb ,19040 days, 8:00:00
+ucrtbase.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\ucrtbase.dll,.dll,1026.088kb ,19040 days, 8:00:00
+vcamp140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\vcamp140.dll,.dll,401.704kb ,19040 days, 8:00:00
+vccorlib140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\vccorlib140.dll,.dll,337.696kb ,19040 days, 8:00:00
+vcomp100.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\vcomp100.dll,.dll,57.168kb ,19040 days, 8:00:00
+vcruntime140.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\vcruntime140.dll,.dll,101.672kb ,19040 days, 8:00:00
+vcruntime140_1.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\vcruntime140_1.dll,.dll,44.328kb ,19040 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO PAINT\zlib.dll,.dll,85.504kb ,19040 days, 8:00:00
+AggregateMdul.exe,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\AggregateMdul.exe,.exe,3155.408kb ,18967 days, 8:00:00
+boost_chrono.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\boost_chrono.dll,.dll,23.552kb ,18967 days, 8:00:00
+boost_regex.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\boost_regex.dll,.dll,628.736kb ,18967 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\boost_system.dll,.dll,15.872kb ,18967 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\boost_thread.dll,.dll,83.968kb ,18967 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\giflib.dll,.dll,27.136kb ,18967 days, 8:00:00
+IccProfLib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\IccProfLib.dll,.dll,373.76kb ,18967 days, 8:00:00
+libjpeg.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\libjpeg.dll,.dll,201.216kb ,18967 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\libpng16.dll,.dll,196.608kb ,18967 days, 8:00:00
+libtiff.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\libtiff.dll,.dll,429.568kb ,18967 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\msvcp100.dll,.dll,421.2kb ,18967 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\msvcr100.dll,.dll,773.968kb ,18967 days, 8:00:00
+vcomp100.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\vcomp100.dll,.dll,51.024kb ,18967 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\AggregateMdul\zlib.dll,.dll,86.528kb ,18967 days, 8:00:00
+boost_chrono.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\boost_chrono.dll,.dll,27.136kb ,18967 days, 8:00:00
+boost_date_time.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\boost_date_time.dll,.dll,49.152kb ,18967 days, 8:00:00
+boost_system.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\boost_system.dll,.dll,17.92kb ,18967 days, 8:00:00
+boost_thread.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\boost_thread.dll,.dll,100.864kb ,18967 days, 8:00:00
+CertMdul.exe,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\CertMdul.exe,.exe,5256.152kb ,18967 days, 8:00:00
+giflib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\giflib.dll,.dll,35.328kb ,18967 days, 8:00:00
+IccProfLib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\IccProfLib.dll,.dll,451.584kb ,18967 days, 8:00:00
+libjpeg.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\libjpeg.dll,.dll,241.66400000000002kb ,18967 days, 8:00:00
+libpng16.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\libpng16.dll,.dll,259.584kb ,18967 days, 8:00:00
+libtiff.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\libtiff.dll,.dll,494.592kb ,18967 days, 8:00:00
+msvcp100.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\msvcp100.dll,.dll,608.08kb ,18967 days, 8:00:00
+msvcr100.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\msvcr100.dll,.dll,829.264kb ,18967 days, 8:00:00
+zlib.dll,D:\CELSYS\CLIP STUDIO 1.5\Common\CertMdul\zlib.dll,.dll,100.352kb ,18967 days, 8:00:00
