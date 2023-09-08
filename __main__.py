@@ -1,5 +1,6 @@
 import os
 import sys
+import datetime
 
 from PyQt6.QtWidgets import *
 from PyQt6.QtGui import *
@@ -77,7 +78,7 @@ class Reporter:
                     filetype = os.path.splitext(file.name)[1].lower()
                     if not filetype in exclusionlist:
                         #file is NOT a directory and can be used as is
-                        report += file.name + "," + file.path + "," + filetype + "," + str(os.path.getsize(file.path) * 0.001) + "kb ," + str(os.path.getmtime(file.path)/86400) + "\n"
+                        report += file.name + "," + file.path + "," + filetype + "," + str(os.path.getsize(file.path) * 0.001) + "kb ," + str(datetime.timedelta(seconds = os.path.getmtime(file.path))) + "\n"
                 elif not file.is_file() and recursive:
                     #file IS a directory, loop recursively.
                     #WARNING Could be expensive to do this as a recursion, might be best to find something else that accepts a "recurse flag" when looking through files.
