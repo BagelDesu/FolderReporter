@@ -9,17 +9,17 @@ A Lightweight CSV (Excel File) Reporter using Python.
 Traverses through a given directory and gives prints out a csv report containing what file names, types, size, and last modified.
 
 ## Usage
-- Directory
-    Directory where the operation will happen.
-- Dump Directory
+- Directory: 
+    where the operation will happen.
+- Dump Directory: 
     Where the csv output will be sent to
-- Dump Name
+- Dump Name: 
     What the output csv file's name will be
-- Exlusions
+- Exlusions:
     File types excluded. Seperate by commas to exclude multiple types.
-- Check Reclusively
+- Check Reclusively: 
     Do we want to check for folders within folders?
-- Run
+- Run: 
     Click to start process
 
 ## Known Issues
