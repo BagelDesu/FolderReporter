@@ -29,13 +29,12 @@ Traverses through a given directory and gives prints out a csv report containing
     - Data gets destorted if running through massive amounts of files(only sometimes)
   # User Experience
     - Status does not properly display the state of the tool.
-    - 
-
+    - Tool is missing a folder dialouge option
+    
 ## Planned Features
 
 1. Restoring input from previous session
-
-## Feedback
+2. dialouge boxes to help select folder location
 
 ## License & Permission
 Personal Use ONLY, no commercial Use permitted
